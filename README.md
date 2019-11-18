@@ -1,3 +1,5 @@
-[![Build Status](https://travis-ci.org/HassanPIOU/mysphinx.svg?branch=master)]https://travis-ci.org/HassanPIOU/mysphinx.svg?branch=master
+[![Build Status](https://travis-ci.org/HassanPIOU/mysphinx.svg?branch=master)](https://travis-ci.org/HassanPIOU/mysphinx)
+
+
 # Mysphinx
  Framework PHP avec Module API
