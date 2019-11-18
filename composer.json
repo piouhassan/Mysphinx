@@ -1,6 +1,6 @@
 {
-    "name": "mysphinx/framework",
-    "description": "Simple PHP mini-Framework",
+    "name": "pollen/mysphinx",
+    "description": "Simple PHP  Framework",
     "license": "MIT",
     "authors": [
         {
