@@ -2,7 +2,7 @@
  Framework PHP avec Module API
  
  
-[![Build Status](https://travis-ci.com/HassanPIOU/Mysphinx.svg?branch=master)](https://travis-ci.com/HassanPIOU/Mysphinx) 
+[![Build Status](https://travis-ci.com/HassanPIOU/Mysphinx.svg?branch=master)](https://travis-ci.com/HassanPIOU/Mysphinx)
 
 
 ## Requirements
