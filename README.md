@@ -9,3 +9,12 @@
 
 * PHP 7.1 or higher
 * Composer for installation
+
+
+## Quick Start
+
+#### Installation
+
+```bash
+composer require pollen/mysphinx
+```
